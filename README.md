@@ -1,1 +1,2 @@
-# django_projecte1
+# Projecte 1
+## Tutorial Django (polls)
